@@ -12,4 +12,8 @@ found for each line.
 Assumptions
 
 If the starting square and target square are equal then the
-shortest path is 0-moves
+shortest path is 0-moves.
+
+To run:
+
+Clone repo and run knights_path.py
